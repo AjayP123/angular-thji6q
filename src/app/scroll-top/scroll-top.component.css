@@ -9,7 +9,7 @@
   height: 56px;
   width: 56px;
   border-radius: 56px;
-  border-color: #fafafa;
+  border: 0;
 }
 
 .show-scrollTop {
