@@ -1,0 +1,18 @@
+.scroll-to-top {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  opacity: 0;
+  transition: all 0.2s ease-in-out;
+}
+.button {
+  height: 56px;
+  width: 56px;
+  border-radius: 56px;
+  border-color: #fafafa;
+}
+
+.show-scrollTop {
+  opacity: 1;
+  transition: all 0.2s ease-in-out;
+}
